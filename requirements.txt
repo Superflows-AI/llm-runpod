@@ -1,2 +1,4 @@
 runpod
 transformers
+accelerate
+peft
